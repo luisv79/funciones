@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.color-azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px;
+}
+
+.color-rojo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 10px;
+}
+
+
+.color-verde{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+}
+
+
+.color-amarillo{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+#key{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: solid 1px black;
+    margin: 10px;
+}
